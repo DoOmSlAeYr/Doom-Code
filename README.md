@@ -1,6 +1,8 @@
 # DoomCode
 
 A professional Morse Code tool for Termux and other terminals, featuring colorful interface, bidirectional text conversion, and more.
+## A screenshot from the DoomCode :
+![DoomCode Interface](https://github.com/DoOmSlAeYr/Doom-Code/raw/main/Screenshot%20_from_DoomCode.jpg)
 
 ## Features
 - Convert text to Morse code and vice versa
