@@ -1,4 +1,4 @@
-DoomCode
+# DoomCode
 
 A professional Morse Code tool for Termux and other terminals, featuring colorful interface, bidirectional text conversion, and more.
 
@@ -17,36 +17,9 @@ To run DoomCode, make sure you have the following installed:
 ```bash
 pkg install python
 pip install colorama pyfiglet
-
-
----
-
-Installation
-
-1. Install Python (if not already installed):
-
-
-
-pkg install python
-
-2. Install required Python libraries:
-
-
-
-pip install colorama pyfiglet
-
-
----
-
-Usage
-
-Run the tool with:
-
+```
+run with :
+```bash
 python DoomCode.py
-
-
----
-
-Author
-
-Made by DoomSlayer
+```
+Author : DoomSlayer
